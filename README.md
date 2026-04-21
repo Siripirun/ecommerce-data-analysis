@@ -56,7 +56,7 @@ The analysis demonstrates how data-driven insights can be used to support busine
 ## Future Work
 - Customer segmentation  
 - Demand forecasting  
-- Predictive modelling using machine learning  
+- Predictive modelling using machine learning 
 
 ---
 
