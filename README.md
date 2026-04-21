@@ -60,5 +60,12 @@ The analysis demonstrates how data-driven insights can be used to support busine
 
 ---
 
+
+## Repository Structure
+- `ecommerce-analysis-github.ipynb` – full analysis notebook  
+- `images/` – visualisations used in the project
+  
+---
+
 ## Author
 Siripirun (Tan) Saritasurarak
