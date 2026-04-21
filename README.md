@@ -1,6 +1,6 @@
 # E-commerce Analytics Project: Sales Trends & Customer Insights
 
-This project applies exploratory data analysis (EDA) techniques to a real-world e-commerce dataset to uncover insights into sales performance, customer behaviour, and revenue drivers.
+This project applies exploratory data analysis (EDA) techniques to a real-world e-commerce dataset to analyse sales trends, customer behaviour, and revenue drivers, and to generate actionable business insights.
 
 The analysis demonstrates how data-driven insights can be used to support business decision-making and improve overall performance.
 
