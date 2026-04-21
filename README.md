@@ -5,6 +5,7 @@ This project applies exploratory data analysis (EDA) techniques to a real-world 
 The analysis demonstrates how data-driven insights can be used to support business decision-making and improve overall performance.
 
 This project highlights the application of data analysis techniques to real-world business problems and demonstrates readiness for further study in Data Science and AI.
+
 ---
 
 ## Tools Used
@@ -57,15 +58,14 @@ This project highlights the application of data analysis techniques to real-worl
 ## Future Work
 - Customer segmentation  
 - Demand forecasting  
-- Predictive modelling using machine learning 
+- Predictive modelling using machine learning  
 
 ---
 
-
 ## Repository Structure
 - `ecommerce-analysis-github.ipynb` – full analysis notebook  
-- `images/` – visualisations used in the project
-  
+- `images/` – visualisations used in the project  
+
 ---
 
 ## Author
