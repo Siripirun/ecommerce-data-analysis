@@ -69,4 +69,4 @@ This project highlights the application of data analysis techniques to real-worl
 ---
 
 ## Author
-Siripirun (Tan) Saritasurarak
+Siri Saritasurarak
